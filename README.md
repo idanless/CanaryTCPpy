@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CanaryTCPpy</title>
 
-  </style>
 </head>
 <body>
   <h1>Welcome to CanaryTCPpy</h1>
