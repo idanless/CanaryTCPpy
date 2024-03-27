@@ -53,6 +53,9 @@
     <li>
       Run the provided examples in the code.
     </li>
+    <li>
+     run as sudo or root
+    </li>
   </ol>
 </body>
 </html>
