@@ -11,6 +11,7 @@ class TCPHandler:
         self.filter = "tcp[tcpflags] & (tcp-syn) != 0"
         # Check if the rule already exists
         self.rule_exists = False
+        self.check_rule_iptables()
 
     def check_rule_iptables(self):
         # Define the rule parameters
@@ -79,7 +80,6 @@ class TCPHandler:
             sniff(filter=self.filter, iface=self.all_interfaces, prn=self.tcp_handler, store=0)
 
 if __name__ == "__main__":
-    #test
     tcp = TCPHandler()
     #list of ports
     tcp.list_ports = ['443', '3389', '23', '21', '25', '5432', '3306', '8080', '8443', '1521', '1433', '5900', '111', '2049',
