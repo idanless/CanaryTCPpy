@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![image](https://github.com/idanless/CanaryTCPpy/assets/31201417/5724686c-09dc-456d-910c-2c1f70587202)<!DOCTYPE html>
 <html>
 <head>
 
@@ -34,9 +34,9 @@
   <img src="https://github.com/idanless/CanaryTCPpy/blob/main/scanpy.JPG?raw=true" alt="Network Area Example" width="800">
   <h2>Example: Nmap Scan Result</h2>
   <p>
-    When an attacker scans a system running CanaryTCPpy with Nmap, the fake port is typically marked as yellow, indicating that it appears closed or filtered:
+    When an attacker scans a system running CanaryTCPpy with Nmap, the fake port is typically marked as yellow, indicating that it appears closed or filtered [you test by any nmap online or local]:
   </p>
-  <img src="https://example.com/nmap_scan_result.png" alt="Nmap Scan Result Example" width="800">
+  <img src="https://github.com/idanless/CanaryTCPpy/blob/main/nmap.JPG?raw=true" alt="Nmap Scan Result Example" width="800">
   <h2>Getting Started</h2>
   <p>
     To run the project, follow these steps:
