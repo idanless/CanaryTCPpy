@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![image](https://github.com/idanless/CanaryTCPpy/assets/31201417/dae72905-8032-4210-a333-f569b8b2ccdb)<!DOCTYPE html>
 <html>
 <head>
 
@@ -24,9 +24,9 @@
   </ol>
   <h2>Example Flow Picture: TCP3 Flow Handling</h2>
   <p>
-    Here's an example flow picture illustrating how TCP3 handles the flow:
+    Here's an example  picture tcp 3 handshake flow:
   </p>
-  <img src="https://example.com/tcp3_flow.png" alt="TCP3 Flow Handling" width="800">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/handshake-1.png" alt="TCP3 Flow Handling" width="800">
   <h2>Example Picture: Network Area</h2>
   <p>
     Here's an example picture showcasing the network area:
