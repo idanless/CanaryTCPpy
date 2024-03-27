@@ -31,7 +31,7 @@
   <p>
     Here's an example picture showcasing the network area:
   </p>
-  <img src="https://example.com/network_area.png" alt="Network Area Example" width="800">
+  <img src="https://github.com/idanless/CanaryTCPpy/blob/main/scanpy.JPG?raw=true" alt="Network Area Example" width="800">
   <h2>Example: Nmap Scan Result</h2>
   <p>
     When an attacker scans a system running CanaryTCPpy with Nmap, the fake port is typically marked as yellow, indicating that it appears closed or filtered:
