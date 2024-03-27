@@ -1,4 +1,4 @@
-![image](https://github.com/idanless/CanaryTCPpy/assets/31201417/5724686c-09dc-456d-910c-2c1f70587202)<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 
