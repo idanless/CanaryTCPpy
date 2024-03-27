@@ -14,7 +14,7 @@ class TCPHandler:
         self.check_rule_iptables()
 
     def check_rule_iptables(self):
-        # Define the rule parameters
+        #block RST tcp flag
         rule = "-A OUTPUT -p tcp -m tcp --tcp-flags RST RST -j DROP"
         # Execute the iptables command to list the rules
         output = os.popen("iptables -S OUTPUT").read()
