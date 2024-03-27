@@ -2,41 +2,7 @@
 <html>
 <head>
   <title>CanaryTCPpy</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
 
-    h1 {
-      color: #333;
-      font-size: 24px;
-    }
-
-    h2 {
-      color: #555;
-      font-size: 18px;
-    }
-
-    p {
-      color: #777;
-      font-size: 16px;
-    }
-
-    code {
-      background-color: #f5f5f5;
-      border: 1px solid #ccc;
-      font-family: Consolas, monospace;
-      padding: 2px 4px;
-    }
-
-    ul {
-      color: #777;
-      font-size: 16px;
-      list-style-type: disc;
-      margin: 10px 0;
-      padding-left: 20px;
-    }
   </style>
 </head>
 <body>
